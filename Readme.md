@@ -1,4 +1,4 @@
-# Automação Ruby + Cucumber
+# Automação Ruby + Cucumber+
 
 Projeto de automação web utilizando Ruby + Cucumber.
 
