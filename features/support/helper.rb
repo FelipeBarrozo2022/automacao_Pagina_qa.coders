@@ -8,4 +8,6 @@ module Helper
         page.save_screenshot(screenshots)
         attach(screenshots, 'image/png')
     end
+
+    
 end
